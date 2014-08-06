@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DDA1EEEC-D37D-4BBF-91FE-78C5FDD088EC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DN Prototype</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FDE4574A-FEC3-4982-AF7D-4DB074A14C9A</key>
+		<string>ssh://github.com/savagecorp/DNnewsApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>prototype/DN Prototype/DN Prototype.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FDE4574A-FEC3-4982-AF7D-4DB074A14C9A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/savagecorp/DNnewsApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FDE4574A-FEC3-4982-AF7D-4DB074A14C9A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FDE4574A-FEC3-4982-AF7D-4DB074A14C9A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DNnewsApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
