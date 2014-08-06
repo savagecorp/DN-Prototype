@@ -72,9 +72,9 @@
                                     <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerradius">
                                         <integer key="value" value="10"/>
                                     </userDefinedRuntimeAttribute>
-                                    <userDefinedRuntimeAttribute type="string" keyPath="type" value="zoomOut"/>
+                                    <userDefinedRuntimeAttribute type="string" keyPath="type" value="fadeInDown"/>
                                     <userDefinedRuntimeAttribute type="number" keyPath="duration">
-                                        <real key="value" value="0.40000000000000002"/>
+                                        <real key="value" value="0.20000000000000001"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                             </view>
