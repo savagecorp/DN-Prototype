@@ -5,29 +5,41 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>DDA1EEEC-D37D-4BBF-91FE-78C5FDD088EC</string>
+	<string>D71CE96A-40E2-490D-AA18-E175F3E98A4F</string>
 	<key>IDESourceControlProjectName</key>
 	<string>DN Prototype</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>01D3FAA4-7B63-4543-8155-7C948A5D5E15</key>
+		<string>ssh://github.com/savagecorp/DN-Prototype.git</string>
 		<key>FDE4574A-FEC3-4982-AF7D-4DB074A14C9A</key>
 		<string>ssh://github.com/savagecorp/DNnewsApp.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>prototype/DN Prototype/DN Prototype.xcworkspace</string>
+	<string>prototype/DN-Prototype/DN Prototype.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>01D3FAA4-7B63-4543-8155-7C948A5D5E15</key>
+		<string>..</string>
 		<key>FDE4574A-FEC3-4982-AF7D-4DB074A14C9A</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/savagecorp/DNnewsApp.git</string>
+	<string>ssh://github.com/savagecorp/DN-Prototype.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
 	<string>FDE4574A-FEC3-4982-AF7D-4DB074A14C9A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>01D3FAA4-7B63-4543-8155-7C948A5D5E15</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DN-Prototype</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
