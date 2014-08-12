@@ -49,7 +49,7 @@
                                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                         </state>
                                         <connections>
-                                            <segue destination="8yy-tY-f17" kind="modal" modalTransitionStyle="flipHorizontal" id="ekl-nt-2L3"/>
+                                            <action selector="loginButtonDidPress:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="sKZ-H6-c6n"/>
                                         </connections>
                                     </button>
                                     <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="nW1-03-Wfw" customClass="CSAnimationView">
@@ -98,6 +98,10 @@
                         <color key="backgroundColor" red="0.23921570181846619" green="0.25882354378700256" blue="0.30196079611778259" alpha="1" colorSpace="deviceRGB"/>
                     </view>
                     <navigationItem key="navigationItem" id="1sH-yX-lyE"/>
+                    <connections>
+                        <outlet property="dialogView" destination="Wy7-Qg-W6n" id="f9z-1I-pMg"/>
+                        <outlet property="loginButton" destination="lTg-BG-Wge" id="cbc-NW-GWC"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
@@ -417,6 +421,7 @@ What would you like to see in it? Any special features? Etc...</string>
                             <outlet property="delegate" destination="gBe-4v-9nU" id="rmM-s9-ACJ"/>
                         </connections>
                     </tableView>
+                    <navigationItem key="navigationItem" id="5DJ-Xi-Oq6"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rf8-Cb-iWS" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -427,6 +432,7 @@ What would you like to see in it? Any special features? Etc...</string>
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="8yy-tY-f17" sceneMemberID="viewController">
                     <toolbarItems/>
+                    <navigationItem key="navigationItem" id="TjX-92-qAF"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" barStyle="black" translucent="NO" id="QvS-bI-aeW">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
