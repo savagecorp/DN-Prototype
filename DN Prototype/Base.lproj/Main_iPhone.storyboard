@@ -113,7 +113,11 @@
                     <navigationItem key="navigationItem" id="1sH-yX-lyE"/>
                     <connections>
                         <outlet property="dialogView" destination="Wy7-Qg-W6n" id="f9z-1I-pMg"/>
+                        <outlet property="emailImageView" destination="rD6-ab-8lB" id="7oZ-O2-Aan"/>
+                        <outlet property="emailTextField" destination="5cD-rW-dIi" id="Eyt-21-ZQb"/>
                         <outlet property="loginButton" destination="lTg-BG-Wge" id="cbc-NW-GWC"/>
+                        <outlet property="passwordImageView" destination="Tgh-Mt-cf1" id="PmP-2X-7UJ"/>
+                        <outlet property="passwordTextField" destination="0IN-ul-9oC" id="FVp-uM-6eZ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
