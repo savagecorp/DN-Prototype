@@ -1,4 +1,5 @@
 platform :ios, '7.0'
 pod 'Canvas', '~> 0.1'
 pod 'TPKeyboardAvoiding'
-
+pod 'SOCKit', '~> 1.1'
+pod 'AFNetworking', '~> 2.0.2'
